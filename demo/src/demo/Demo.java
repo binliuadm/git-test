@@ -1,6 +1,6 @@
 package demo;
 
 public class Demo {
-  public static void 
+  public static void main 
 
 }
